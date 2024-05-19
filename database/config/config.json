@@ -1,31 +1,126 @@
 [
   {
-    "name": "AXIS GAME.hc",
-    "size": "99kB",
+    "name": "AXIS Conference.hc",
+    "size": "50kB",
     "url": "https://github.com/Fahmi-XD/database/config/axis-game.hc"
   },
   {
-    "name": "AXIS EDU.hc",
+    "name": "AXIS Edukasi.hc",
     "size": "98kB",
     "url": "https://github.com/Fahmi-XD/database/config/axis-edu.hc"
   },
   {
-    "name": "AXIS EMERGENCY.hc",
+    "name": "AXIS Game 1.hc",
     "size": "99kB",
     "url": "https://github.com/Fahmi-XD/database/config/axis-emergency.hc"
   },
   {
-    "name": "ILPED.hc",
+    "name": "AXIS Game 2.hc",
     "size": "98kB",
     "url": "https://github.com/Fahmi-XD/database/config/ilped.hc"
   },
   {
-    "name": "XL GAMEMAX.hc",
+    "name": "AXIS Opok.hc",
     "size": "97kB",
     "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
   },
   {
-    "name": "UDP ALL OPERATOR.hc",
+    "name": "AXIS Sushiroll 1.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "AXIS Sushiroll 2.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "AXIS Video.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "ISAT Edukasi 1.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "ISAT Edukasi 2.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "ISAT Edukasi 3.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "TSEL Gamemax.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "TSEL ilmupedia 1.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "TSEL Ilmupedia 2.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "TSEL Ilmupedia 3.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "TSEL Opok.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "XL Akrab 1.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "XL Akrab 2.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "XL Akrab 3.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "XL Edukasi.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "XL Flex 1.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "XL Flex 2.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "XL Flex 3.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "XL Opok.hc",
+    "size": "97kB",
+    "url": "https://github.com/Fahmi-XD/database/config/xl-gamemax.hc"
+  },
+  {
+    "name": "AXIS Sosmed.hc",
     "size": "99kB",
     "url": "https://github.com/Fahmi-XD/database/config/udp-all.hc"
   }
