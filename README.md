@@ -1,10 +1,12 @@
 # Hi there 👋 , I'm Fahmi!
 I love learn new thing in programming such as Javascript, Java, Python.  
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+<hr> 
+
+### Tools used:
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
+
+<hr>
 
 ### Stats:
 <details>
@@ -16,7 +18,16 @@ I love learn new thing in programming such as Javascript, Java, Python.
     - 📫 How to reach me: <a href="mailto:fahmixdbsn@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Fahmi-XD&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmi-XD&layout=compact" height=180 />
-</p>
+
+<hr>
+
+### Account Stats:
+<a href="https://github.com/Fahmi-XD">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Fahmi-XD&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
+</a>
+</br>
+<a href="https://github.com/Fahmi-XD">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahmi-XD&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
+</a>
+
+<hr>
