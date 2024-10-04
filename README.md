@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Fahmi!
-I love learn new thing in programming such as Javascript, Java, Python.  
+I love learn new thing in programming such as Javascript, Golang, Python.  
 
 <hr> 
 
