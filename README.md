@@ -22,12 +22,14 @@ I love learn new thing in programming such as Javascript, Java, Python.
 <hr>
 
 ### Account Stats:
-<a href="https://github.com/Fahmi-XD">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Fahmi-XD&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
-</a>
-</br>
-<a href="https://github.com/Fahmi-XD">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahmi-XD&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
-</a>
+<div style="display: flex; width: 100%; gap: 2rem;">
+ <a href="https://github.com/Fahmi-XD">
+   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Fahmi-XD&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
+ </a>
+ </br>
+ <a href="https://github.com/Fahmi-XD">
+   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahmi-XD&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
+ </a>
+</div>
 
 <hr>
