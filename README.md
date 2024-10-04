@@ -4,7 +4,7 @@ I love learn new thing in programming such as Javascript, Java, Python.
 <hr> 
 
 ### Tools used:
-[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm,python&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
 
 <hr>
 
