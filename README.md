@@ -32,4 +32,6 @@ I love learn new thing in programming such as Javascript, Golang, Python.
  </a>
 </div>
 
+![](https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <hr>
