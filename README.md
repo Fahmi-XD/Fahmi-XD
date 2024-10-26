@@ -37,8 +37,6 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 <br>
 <br>
 
-<a href="https://github.com/Fahmi-XD">
- <img height="180" width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</a>
+![](https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
