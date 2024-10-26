@@ -26,12 +26,16 @@ I love learn new thing in programming such as Javascript, Golang, Python.
  <a href="https://github.com/Fahmi-XD">
    <img height=180 width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=Fahmi-XD&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
  </a>
- </br>
+ <a href="https://github.com/Fahmi-XD">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=FongsiDev&theme=radical&hide_border=false)<br/>
+ </a>
  <a href="https://github.com/Fahmi-XD">
    <img height=180 width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahmi-XD&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
  </a>
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/Fahmi-XD">
+ ![](https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</a>
 
 <hr>
