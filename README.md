@@ -15,10 +15,7 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning Python, Javascript, Artificial intelligent, and Golang </br>
-    - 👯 I’m looking to collaborate on Automation Project, Website. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
+    - 🌱 I’m currently learning Python, Javascript, C++, Machine Learning, and Golang </br>
     - 📫 How to reach me: <a href="mailto:fahmixd404@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
 </details>
