@@ -4,7 +4,11 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 <hr> 
 
 ### Tools used:
-[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm,python&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm,py,vscode,cpp,java,pnpm,bun,go,docker,git,electron,postman,posgresql,redux,nextjs,&theme=dark&perline=6" />
+  </a>
+</p>
 
 <hr>
 
