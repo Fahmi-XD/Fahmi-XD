@@ -6,7 +6,7 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 ### Tools used:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm,py,vscode,cpp,java,pnpm,bun,go,docker,git,electron,postman,redux,nextjs,laravel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm,py,vscode,cpp,java,pnpm,bun,go,docker,git,electron,postman,redux,nextjs,laravel&theme=dark&perline=9" />
   </a>
 </p>
 
