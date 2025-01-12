@@ -6,7 +6,7 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 ### Tools used:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm,py,vscode,cpp,java,pnpm,bun,go,docker,git,electron,postman,redux,nextjs,laravel&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm,py,vscode,cpp,java,pnpm,bun,go,docker,git,electron,postman,redux,nextjs,laravel&theme=dark&perline=6" />
   </a>
 </p>
 
@@ -26,9 +26,6 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 <div style="display: flex; width: 100%; gap: 2rem;">
  <a href="https://github.com/Fahmi-XD">
    <img height="180" width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=Fahmi-XD&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
- </a>
- <a href="https://github.com/Fahmi-XD">
-  <img height="180" width="300" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fahmi-XD&theme=radical&hide_border=false" />
  </a>
  <a href="https://github.com/Fahmi-XD">
    <img height="180" width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahmi-XD&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
