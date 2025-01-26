@@ -38,3 +38,7 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 ![](https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahmi-XD&theme=github-compact&radius=16" height="auto" alt="bálxzzy"/>
+</div>
