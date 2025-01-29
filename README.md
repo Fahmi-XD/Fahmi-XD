@@ -49,10 +49,12 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 <br>
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=A,B" alt="Fahmi XD">
+</div>
 
 <hr>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahmi-XD&theme=github-compact&radius=16" height="auto" alt="bálxzzy"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahmi-XD&theme=github-compact&radius=16" height="auto" alt="Fahmi XD"/>
 </div>
