@@ -3,10 +3,9 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 
 <hr> 
 
-### Tools used:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm,py,vscode,cpp,java,pnpm,bun,go,docker,git,electron,postman,dart,nextjs,laravel&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,postgresql,mongo,nodejs,github,markdown,npm,py,vscode,java,pnpm,bun,go,docker,git,kotlin,postman,dart,nextjs&theme=dark&perline=6" />
   </a>
 </p>
 
