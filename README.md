@@ -25,8 +25,8 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning Python, Javascript, C++, Machine Learning, and Golang </br>
-    - 📫 How to reach me: <a href="mailto:fahmixd404@gmail.com">Email me!</a>  </br>
+    - 🌱 I’m currently learning Python, Javascript, and Golang </br>
+    - 📫 How to reach me: <a href="mailto:syntx@fusions.my.id">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
 </details>
 
@@ -49,7 +49,7 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=A,B" alt="Fahmi XD">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=2&rank=-C,-?,-B" alt="Fahmi XD">
 </div>
 
 <hr>
