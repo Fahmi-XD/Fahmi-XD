@@ -41,7 +41,7 @@ I love learn new thing in programming such as Javascript, Golang, Python.
    <img height="180" width="300" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmi_xd&layout=compact&theme=holi" />
  </a>
  <a href="https://github.com/Fahmi-XD">
-   <img height="180" width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahmi-XD&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
+   <img height="180" width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahmi-XD&hide_progress=true&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
  </a>
 </div>
 
