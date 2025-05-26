@@ -51,7 +51,7 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=1&rank=-C,-?,-B" alt="Fahmi XD">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=3&rank=-C,-?,-B" alt="Fahmi XD">
 </div>
 
 <hr>
