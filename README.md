@@ -5,7 +5,7 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,mongo,nodejs,github,markdown,npm,py,vscode,pnpm,bun,go,docker,git,kotlin,postman,dart,nextjs,rust,svelte,prisma,neovim,laravel,php&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,mongo,nodejs,github,markdown,npm,py,vscode,pnpm,bun,go,docker,git,kotlin,postman,dart,nextjs,rust,svelte,prisma,neovim,laravel,php,elysia,firebase,flutter,androidstudio&theme=dark&perline=6" />
   </a>
 </p>
 
@@ -25,8 +25,8 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning Rust, PHP ( Laravel ), and Golang </br>
-    - 📫 How to reach me: <a href="mailto:syntx@fusions.my.id">Email me!</a>  </br>
+    - 🌱 I’m currently learning Dart ( Flutter ), PHP ( Laravel ), and Golang </br>
+    - 📫 How to reach me: <a href="mailto:guesjis@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
 </details>
 
