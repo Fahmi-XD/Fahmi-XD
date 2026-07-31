@@ -1,15 +1,15 @@
 # Hi there 👋 , I'm Fahmi!
-I love learn new thing in programming such as Javascript, Golang, Python.  
+I love learn new thing in programming such as Javascript, Golang, Python, and Rust.  
 
-<hr> 
+<!-- <hr>  -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,express,mysql,mongo,nodejs,github,markdown,npm,py,vscode,pnpm,bun,go,docker,git,kotlin,postman,dart,nextjs,rust,svelte,prisma,neovim,laravel,php,elysia,firebase,flutter,androidstudio&theme=dark&perline=6" />
   </a>
-</p>
+</p> -->
 
-<hr>
+<!-- <hr> -->
 
 <div align="center">
   <span style="display: inline-block; margin-right: 10px;">
@@ -21,6 +21,8 @@ I love learn new thing in programming such as Javascript, Golang, Python.
     <img src="https://komarev.com/ghpvc/?username=Fahmi-XD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
   </span>
 </div>
+
+<!--
 
 ### Stats:
 <details>
@@ -50,9 +52,11 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 <br>
 <br>
 
-<div align="center">
+-->
+
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=3&rank=-C,-?,-B" alt="Fahmi XD">
-</div>
+</div> -->
 
 <hr>
 
