@@ -58,8 +58,8 @@ I love learn new thing in programming such as Javascript, Golang, Python, and Ru
   <img src="https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=3&rank=-C,-?,-B" alt="Fahmi XD">
 </div> -->
 
-<hr>
+<!-- <hr> -->
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahmi-XD&theme=github-compact&radius=16" height="auto" alt="Fahmi XD"/>
-</div>
+</div> -->
